@@ -1,72 +1,77 @@
-# 👋 Hi, I'm Ayush Agnihotri
+# 👋 Hi, I'm Ayush Agnihotri  
 
-🎓 **College Student** | 💻 Aspiring Software Engineer  
-📍 Based in Kanpur, India
-
----
-
-## 🚀 About Me
-
-🔹 Passionate about tech, AI, and coding  
-🔹 Skilled in communication and teamwork  
-🔹 Always eager to learn and grow
+🎓 College Student | 💻 Aspiring Software Engineer  
+📍 Based in Kanpur, India  
 
 ---
 
-## 📚 Education
-
-🎓 **B.Tech, CSE** - Rajkiya Engineering College Pratapgarh  
-📅 *2023 – 2027*
-
-🏫 **Senior Secondary (XII)** - Sardar Patel Academy  
-📅 *2023 – 2024*
-
-🏫 **Secondary (X)** - Virendra Swaroop Education Centre  
-📅 *2021*
+## 🚀 About Me  
+- 🔹 Passionate about tech, AI, and coding  
+- 🔹 Skilled in communication and teamwork  
+- 🔹 Always eager to learn and grow  
 
 ---
 
-## 🧠 Courses & Certifications
-
-📍 Google Arcade Facilitator Program *(Ongoing)*  
-📍 Python Essentials 3 – Cisco  
-📍 AI & Cybersecurity – IBM *(Upcoming)*  
-📍 Data Analysis – Microsoft
+## 📚 Education  
+- 🎓 **B.Tech, CSE** – Rajkiya Engineering College Pratapgarh (2023 – 2027)  
+- 🏫 **Senior Secondary (XII)** – Sardar Patel Academy (2023 – 2024)  
+- 🏫 **Secondary (X)** – Virendra Swaroop Education Centre (2021)  
 
 ---
 
-## 💼 Internships
-
-🔹 **JP Morgan** – Virtual Internship *(Data Analysis)*  
-🔹 **Tata Group** – Virtual Internship *(Data Analysis)*
-
----
-
-## 🛠 Skills
-
-🟢 Python, C, JavaScript  
-🟢 HTML, MS-Office, MS-Excel  
-🟢 Adobe Photoshop, Illustrator  
-🟢 PowerApps, Video Editing  
-🟢 English: Proficient (Spoken & Written)
+## 🧠 Courses & Certifications  
+- 📍 Google Arcade Facilitator Program *(Ongoing)*  
+- 📍 Python Essentials 3 – Cisco  
+- 📍 AI & Cybersecurity – IBM *(Upcoming)*  
+- 📍 Data Analysis – Microsoft  
 
 ---
 
-## 🔗 Links
-
-🌐 [LinkedIn](#) | [GitHub](#)  
-🤖 [Chatcord](#) | [Emotional Chatbot AI](#)  
-🧠 [Student Database System](#)  
-📄 [Resume Builder](#)  
-🎮 [Space Invader Game](#)
+## 💼 Internships  
+- 🔹 **JP Morgan** – Virtual Internship (Data Analysis)  
+- 🔹 **Tata Group** – Virtual Internship (Data Analysis)  
 
 ---
 
-📩 **Email:** ayushagnihotri165@gmail.com  
-📱 **Phone:** +91 8294090075  
-🎂 **DOB:** 27/11/2005  
-🌏 **Nationality:** Indian
+## 🏆 Achievements & Hackathons  
+- 🥇 **Won 1st Position** at **AKTU AI Tech Guvi HCL Hackathon** 🎉  
+- [![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2ea44f?logo=github)](https://github.com/TheHUNTER2714)  
+- [![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?logo=github)](https://github.com/TheHUNTER2714)  
+- [![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?logo=github)](https://github.com/TheHUNTER2714)  
+- [![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-yellow?logo=github)](https://github.com/TheHUNTER2714)  
 
+---
+
+## 🛠 Skills  
+🟢 **Languages & Tools**: Python, C, JavaScript, HTML, MS Office, MS Excel  
+🟢 **Design & Creativity**: Adobe Photoshop, Illustrator, Canva, Video Editing  
+🟢 **Platforms & Frameworks**: PowerApps, Flask, TailwindCSS, React, Node.js  
+🟢 **Databases & Cloud**: MongoDB, MySQL, Firebase, Google Cloud, Azure, AWS  
+🟢 **Other Tools**: GitHub, Git, Postman, Render, Vercel  
+
+---
+
+## 🔗 Projects & Links  
+🌐 [**LinkedIn**](https://www.linkedin.com) | [**GitHub**](https://github.com/TheHUNTER2714)  
+🤖 [Chatcord](https://chatcord-9slp.onrender.com) | [Emotional Chatbot AI](https://studycare-ai-chatbot.onrender.com)  
+🧠 [Student Database System](#) | 📄 [Resume Builder](#)  
+🎮 [Space Invader Game](#)  
+📂 [CHECK MY PORTFOLIO](https://thehunter2714.github.io/portfolio/)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHUNTER2714&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHUNTER2714&layout=compact&theme=radical)  
+
+---
+
+## 📩 Contact Me  
+- 📧 **Email**: ayushagnihotri165@gmail.com  
+- 📱 **Phone**: +91 8294090075  
+- 🎂 **DOB**: 27/11/2005  
+- 🌏 **Nationality**: Indian  
 ---
 
 ## 🌐 Socials:
