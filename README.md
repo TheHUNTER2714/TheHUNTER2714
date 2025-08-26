@@ -81,6 +81,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheHUNTER2714&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+# badge: 
+![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2ea44f?logo=github)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?logo=github)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?logo=github)
+![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-yellow?logo=github)
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 CHECK MY PORTFOLIO - https://thehunter2714.github.io/portfolio/
