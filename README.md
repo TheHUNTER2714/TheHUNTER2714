@@ -33,12 +33,12 @@
 
 ---
 
-## 🏆 Achievements & Hackathons  
-- 🥇 **Won 1st Position** at **AKTU AI Tech Guvi HCL Hackathon** 🎉  
-- [![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2ea44f?logo=github)](https://github.com/TheHUNTER2714)  
-- [![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?logo=github)](https://github.com/TheHUNTER2714)  
-- [![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?logo=github)](https://github.com/TheHUNTER2714)  
-- [![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-yellow?logo=github)](https://github.com/TheHUNTER2714)  
+## 🏆 GitHub Achievements
+
+[![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)](https://github.com/users/TheHUNTER2714/achievements/pair-extraordinaire)
+[![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)](https://github.com/users/TheHUNTER2714/achievements/pull-shark)
+[![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)](https://github.com/users/TheHUNTER2714/achievements/yolo)
+[![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)](https://github.com/users/TheHUNTER2714/achievements/quickdraw)
 
 ---
 
