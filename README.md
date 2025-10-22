@@ -68,7 +68,7 @@
 ---
 
 ## 📩 Contact Me  
-- 📧 **Email**: ayushagnihotri165@gmail.com  
+- 📧 **Email**: ayushagnihotri964@gmail.com  
 - 📱 **Phone**: +91 8294090075  
 - 🎂 **DOB**: 27/11/2005  
 - 🌏 **Nationality**: Indian  
