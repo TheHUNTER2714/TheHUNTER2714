@@ -14,13 +14,13 @@
 
 ## 📚 Education  
 - 🎓 **B.Tech, CSE** – Rajkiya Engineering College Pratapgarh (2023 – 2027)  
-- 🏫 **Senior Secondary (XII)** – Sardar Patel Academy (2023 – 2024)  
+- 🏫 **Senior Secondary (XII)** – Sardar Patel Academy (2023)  
 - 🏫 **Secondary (X)** – Virendra Swaroop Education Centre (2021)  
 
 ---
 
 ## 🧠 Courses & Certifications  
-- 📍 Google Arcade Facilitator Program *(Ongoing)*  
+- 📍 Google Arcade Facilitator Program   
 - 📍 Python Essentials 3 – Cisco  
 - 📍 AI & Cybersecurity – IBM *(Upcoming)*  
 - 📍 Data Analysis – Microsoft  
