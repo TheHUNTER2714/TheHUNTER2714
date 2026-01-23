@@ -22,14 +22,15 @@
 ## 🧠 Courses & Certifications  
 - 📍 Google Arcade Facilitator Program   
 - 📍 Python Essentials 3 – Cisco  
-- 📍 AI & Cybersecurity – IBM *(Upcoming)*  
+- 📍 AI & Cybersecurity – IBM   
 - 📍 Data Analysis – Microsoft  
 
 ---
 
 ## 💼 Internships  
 - 🔹 **JP Morgan** – Virtual Internship (Data Analysis)  
-- 🔹 **Tata Group** – Virtual Internship (Data Analysis)  
+- 🔹 **Tata Group** – Virtual Internship (Data Analysis)
+- 🔹 **IBM** – Virtual Internship (AI)
 
 ---
 
