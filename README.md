@@ -140,13 +140,61 @@ Focus: AI | Full Stack | Cloud
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Badges ⚡
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=matrix&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=6" />
 </p>
 
 ---
+
+## ⚡ GitHub Highlights (Animated Badges)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Pull%20Shark-Active-blueviolet?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/🔥%20YOLO-Legend-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Quickdraw-Fast-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝%20Pair%20Extraordinaire-Team%20Player-00F7FF?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Contribution Graph (Snake Animation 🐍)
+
+<p align="center">
+  <img src="https://github.com/TheHUNTER2714/TheHUNTER2714/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🎯 Achievement Progress (Dynamic Style)
+
+<p align="center">
+
+<img src="https://progress-bar.dev/85/?title=DSA&width=500&color=00F7FF"/>
+<br><br>
+<img src="https://progress-bar.dev/75/?title=Development&width=500&color=8A2BE2"/>
+<br><br>
+<img src="https://progress-bar.dev/65/?title=AI%20Learning&width=500&color=ff69b4"/>
+
+</p>
+
+---
+
+## 🌟 Developer Power Level
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-100%25%20Developer-00F7FF?style=for-the-badge"/>
+</p>
+
+---
+
+## 💎 Fun Achievement Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
 
 ## 📩 Connect
 
