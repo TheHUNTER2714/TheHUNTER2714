@@ -1,3 +1,139 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Ayush+Agnihotri;Aspiring+Software+Engineer+💻;AI+%7C+Web+%7C+Cloud+Enthusiast;Building+Cool+Things+🚀" />
+</p>
+
+---
+
+<h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheHUNTER2714&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/TheHUNTER2714?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/TheHUNTER2714?style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+Name: Ayush Agnihotri
+Location: Kanpur, India 🇮🇳
+Education: B.Tech CSE (2023–2027)
+Passion: AI | Development | Innovation
+```
+
+✨ Turning ideas into real-world projects
+🚀 Always learning something new
+🔥 Focused on becoming industry-ready
+
+---
+
+## 🎯 Current Mission
+
+* 🔥 Master DSA + Development
+* 🤖 Build AI-powered apps
+* 🌐 Create impactful web projects
+* 💼 Crack top tech placements
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,js,html,react,nodejs,flask,mongodb,mysql,firebase,aws,azure,gcp,git,github,postman,tailwind" />
+
+</p>
+
+---
+
+## 🎨 Creative Skills
+
+* 🎬 Video Editing
+* 🎨 Photoshop & Illustrator
+* ✨ Canva Design
+
+---
+
+## 🚀 Featured Projects
+
+| Project               | Description                |
+| --------------------- | -------------------------- |
+| 🤖 Chatcord           | Emotional AI Chatbot       |
+| 🧠 Student DB System  | Full Stack Student Manager |
+| 📄 Resume Builder     | Smart Resume Generator     |
+| 🎮 Space Invader Game | Python 3D Game             |
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:**
+👉 https://thehunter2714.github.io/portfolio/
+👉 https://ayushportfolio2714a.netlify.app
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHUNTER2714&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHUNTER2714&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheHUNTER2714&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=matrix&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📚 Certifications
+
+* 🎓 Google Arcade Facilitator Program
+* 🐍 Cisco Python Essentials 3
+* 🤖 IBM AI & Cybersecurity
+* 📊 Microsoft Data Analysis
+
+---
+
+## 💼 Internships
+
+* 💼 JP Morgan – Data Analysis
+* 💼 Tata Group – Data Analysis
+* 💼 IBM – AI Internship
+
+---
+
+## 📩 Connect With Me
+
+<p align="center">
+  <a href="mailto:ayushagnihotri964@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```diff
++ I don't just write code...
++ I build experiences 🚀
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
 # 👋 Hi, I'm Ayush Agnihotri  
 
 🎓 College Student | 💻 Aspiring Software Engineer  
