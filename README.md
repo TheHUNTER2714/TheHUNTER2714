@@ -1,96 +1,85 @@
+<!-- 3D Animated Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Ayush+Agnihotri+(Hunter)+⚡;🚀+Full+Stack+Developer;🤖+AI+Enthusiast;💻+Building+The+Future..." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=200&section=header&text=AYUSH%20AGNIHOTRI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Aspiring+Software+Engineer;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🔥+Building+Future+Projects" />
 </p>
 
 ---
 
+<!-- Neon Divider -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=200&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284111-9b7c6e4c-1d1d-4bb3-8f3f-7a2b1f2f9c89.gif" width="100%"/>
 </p>
 
 ---
 
-<h2 align="center">🌌 <span style="color:#00F7FF;">DIGITAL PROFILE</span> 🌌</h2>
+# 👨‍💻 About Me
 
 <table align="center">
 <tr>
 <td>
 
-```yaml
-Name: Ayush Agnihotri
-Role: Aspiring Software Engineer 💻
-Location: Kanpur, India 🇮🇳
-Focus: AI | Web | Cloud
-```
+🎓 **B.Tech CSE (2023–2027)**
+📍 Kanpur, India 🇮🇳
+🚀 Passionate about AI & Development
+🔥 Always learning & building
 
 </td>
 <td>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚡ <span style="color:#FF00FF;">CURRENT OBJECTIVE</span>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Mastery-00F7FF?style=for-the-badge&logo=codeforces"/>
-  <img src="https://img.shields.io/badge/AI-Projects-8A2BE2?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/Web-Development-FF00FF?style=for-the-badge&logo=react"/>
-</p>
-
----
-
-## 🛠 <span style="color:#00F7FF;">TECH STACK</span>
-
-<table align="center">
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frameworks</b></td>
-<td align="center"><b>Cloud & DB</b></td>
-<td align="center"><b>Tools</b></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python,c,js,html" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,azure,gcp" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
-</td>
-</tr>
-</table>
-
----
-
-## 🎨 <span style="color:#8A2BE2;">CREATIVE ZONE</span>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-00F7FF?style=for-the-badge&logo=adobephotoshop"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF00FF?style=for-the-badge&logo=adobeillustrator"/>
-  <img src="https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva"/>
-</p>
-
----
-
-## 🚀 <span style="color:#00F7FF;">PROJECTS</span>
+# 🎯 Current Goals
 
 <table>
 <tr>
-<th>🚀 Project</th>
-<th>💡 Description</th>
+<td>🔥 Master DSA</td>
+<td>🤖 Build AI Apps</td>
+<td>🌐 Full Stack Dev</td>
+<td>💼 Crack Placements</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack (Animated Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,react,nodejs,flask,mongodb,mysql,firebase,aws,azure,gcp,git,github,postman,tailwind&perline=8" />
+</p>
+
+---
+
+# 🎨 Creative Skills
+
+<table>
+<tr>
+<td>🎬 Video Editing</td>
+<td>🎨 Photoshop</td>
+<td>✨ Canva</td>
+<td>🖌 Illustrator</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Projects Showcase
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
 </tr>
 
 <tr>
@@ -100,7 +89,7 @@ Focus: AI | Web | Cloud
 
 <tr>
 <td>🧠 Student DB</td>
-<td>Full Stack Student System</td>
+<td>Full Stack Student Manager</td>
 </tr>
 
 <tr>
@@ -110,56 +99,85 @@ Focus: AI | Web | Cloud
 
 <tr>
 <td>🎮 Space Game</td>
-<td>3D Python Game</td>
+<td>Python 3D Space Game</td>
 </tr>
 
 </table>
 
 ---
 
-## 🌐 <span style="color:#FF00FF;">PORTFOLIO</span>
+# 🌐 Portfolio
 
 <p align="center">
   <a href="https://thehunter2714.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/View-Portfolio-00F7FF?style=for-the-badge&logo=firefox"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=firefox&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 📊 <span style="color:#00F7FF;">GITHUB ANALYTICS</span>
+# 📊 GitHub 3D Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHUNTER2714&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHUNTER2714&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHUNTER2714&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHUNTER2714&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheHUNTER2714&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 <span style="color:#8A2BE2;">ACHIEVEMENTS</span>
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=radical&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 📩 <span style="color:#FF00FF;">CONNECT WITH ME</span>
+# 📚 Certifications
+
+<table>
+<tr>
+<td>🎓 Google Arcade</td>
+<td>🐍 Cisco Python</td>
+<td>🤖 IBM AI</td>
+<td>📊 Microsoft Data</td>
+</tr>
+</table>
+
+---
+
+# 💼 Internships
+
+<table>
+<tr>
+<td>💼 JP Morgan</td>
+<td>💼 Tata</td>
+<td>💼 IBM</td>
+</tr>
+</table>
+
+---
+
+# 📩 Contact
 
 <p align="center">
   <a href="mailto:ayushagnihotri964@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
+<!-- 3D Gradient Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:8A2BE2,100:00F7FF&height=150&section=footer"/>
 </p>
+
 
 # 👋 Hi, I'm Ayush Agnihotri  
 
