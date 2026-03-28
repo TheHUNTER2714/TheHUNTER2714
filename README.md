@@ -1,139 +1,166 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Ayush+Agnihotri;Aspiring+Software+Engineer+💻;AI+%7C+Web+%7C+Cloud+Enthusiast;Building+Cool+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Ayush+Agnihotri+(Hunter)+⚡;🚀+Full+Stack+Developer;🤖+AI+Enthusiast;💻+Building+The+Future..." />
 </p>
 
 ---
-
-<h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheHUNTER2714&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/TheHUNTER2714?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/TheHUNTER2714?style=for-the-badge&color=yellow" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=200&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">🌌 <span style="color:#00F7FF;">DIGITAL PROFILE</span> 🌌</h2>
+
+<table align="center">
+<tr>
+<td>
 
 ```yaml
 Name: Ayush Agnihotri
+Role: Aspiring Software Engineer 💻
 Location: Kanpur, India 🇮🇳
-Education: B.Tech CSE (2023–2027)
-Passion: AI | Development | Innovation
+Focus: AI | Web | Cloud
 ```
 
-✨ Turning ideas into real-world projects
-🚀 Always learning something new
-🔥 Focused on becoming industry-ready
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Mission
-
-* 🔥 Master DSA + Development
-* 🤖 Build AI-powered apps
-* 🌐 Create impactful web projects
-* 💼 Crack top tech placements
-
----
-
-## 🛠 Tech Arsenal
+## ⚡ <span style="color:#FF00FF;">CURRENT OBJECTIVE</span>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,js,html,react,nodejs,flask,mongodb,mysql,firebase,aws,azure,gcp,git,github,postman,tailwind" />
-
+  <img src="https://img.shields.io/badge/DSA-Mastery-00F7FF?style=for-the-badge&logo=codeforces"/>
+  <img src="https://img.shields.io/badge/AI-Projects-8A2BE2?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Web-Development-FF00FF?style=for-the-badge&logo=react"/>
 </p>
 
 ---
 
-## 🎨 Creative Skills
+## 🛠 <span style="color:#00F7FF;">TECH STACK</span>
 
-* 🎬 Video Editing
-* 🎨 Photoshop & Illustrator
-* ✨ Canva Design
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Frameworks</b></td>
+<td align="center"><b>Cloud & DB</b></td>
+<td align="center"><b>Tools</b></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,c,js,html" />
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind" />
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,azure,gcp" />
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project               | Description                |
-| --------------------- | -------------------------- |
-| 🤖 Chatcord           | Emotional AI Chatbot       |
-| 🧠 Student DB System  | Full Stack Student Manager |
-| 📄 Resume Builder     | Smart Resume Generator     |
-| 🎮 Space Invader Game | Python 3D Game             |
-
----
-
-## 🌐 Portfolio
-
-🔗 **Live Portfolio:**
-👉 https://thehunter2714.github.io/portfolio/
-👉 https://ayushportfolio2714a.netlify.app
-
----
-
-## 📊 GitHub Analytics
+## 🎨 <span style="color:#8A2BE2;">CREATIVE ZONE</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHUNTER2714&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHUNTER2714&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheHUNTER2714&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/Photoshop-00F7FF?style=for-the-badge&logo=adobephotoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF00FF?style=for-the-badge&logo=adobeillustrator"/>
+  <img src="https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva"/>
 </p>
 
 ---
 
-## 📚 Certifications
+## 🚀 <span style="color:#00F7FF;">PROJECTS</span>
 
-* 🎓 Google Arcade Facilitator Program
-* 🐍 Cisco Python Essentials 3
-* 🤖 IBM AI & Cybersecurity
-* 📊 Microsoft Data Analysis
+<table>
+<tr>
+<th>🚀 Project</th>
+<th>💡 Description</th>
+</tr>
+
+<tr>
+<td>🤖 Chatcord</td>
+<td>Emotional AI Chatbot</td>
+</tr>
+
+<tr>
+<td>🧠 Student DB</td>
+<td>Full Stack Student System</td>
+</tr>
+
+<tr>
+<td>📄 Resume Builder</td>
+<td>Smart Resume Generator</td>
+</tr>
+
+<tr>
+<td>🎮 Space Game</td>
+<td>3D Python Game</td>
+</tr>
+
+</table>
 
 ---
 
-## 💼 Internships
-
-* 💼 JP Morgan – Data Analysis
-* 💼 Tata Group – Data Analysis
-* 💼 IBM – AI Internship
-
----
-
-## 📩 Connect With Me
+## 🌐 <span style="color:#FF00FF;">PORTFOLIO</span>
 
 <p align="center">
-  <a href="mailto:ayushagnihotri964@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://thehunter2714.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/View-Portfolio-00F7FF?style=for-the-badge&logo=firefox"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 📊 <span style="color:#00F7FF;">GITHUB ANALYTICS</span>
 
-```diff
-+ I don't just write code...
-+ I build experiences 🚀
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHUNTER2714&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHUNTER2714&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 <span style="color:#8A2BE2;">ACHIEVEMENTS</span>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheHUNTER2714&theme=radical&no-frame=true"/>
+</p>
+
+---
+
+## 📩 <span style="color:#FF00FF;">CONNECT WITH ME</span>
+
+<p align="center">
+  <a href="mailto:ayushagnihotri964@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=120&section=footer"/>
 </p>
+
 # 👋 Hi, I'm Ayush Agnihotri  
 
 🎓 College Student | 💻 Aspiring Software Engineer  
