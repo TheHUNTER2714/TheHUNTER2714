@@ -216,7 +216,19 @@ Focus: AI | Full Stack | Cloud
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=thehunter2714&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=thehunter2714&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Ayush Agnihotri contribution snake" />
 </picture>
+---
+h2>Play the next move</h2>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=thehunter2714&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=thehunter2714&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Ayush Agnihotri animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 CHECK MY PORTFOLIO - https://thehunter2714.github.io/portfolio/
