@@ -11,7 +11,25 @@
 </p>
 
 ---
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=thehunter2714&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&v=showcase-hero-1" alt="Ayush Agnihotri hero visual" />
+</p>
 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/portrait?username=thehunter2714&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&color=1&v=showcase-portrait-1" alt="Ayush Agnihotri portrait visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=thehunter2714&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&v=showcase-wordmark-3" alt="Ayush Agnihotri wordmark visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stack?username=thehunter2714&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&v=showcase-stack-4" alt="Ayush Agnihotri stack visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=thehunter2714&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171363640%3Fu%3D5f4c6189812d0e4819f367c56a9a26e7de815608%26v%3D4&v=showcase-projects-5" alt="Ayush Agnihotri projects visual" />
+</p>
 ## 🌐 <span style="color:#00F7FF">Digital Identity</span>
 
 <table align="center">
