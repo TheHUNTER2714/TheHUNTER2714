@@ -186,21 +186,6 @@ Focus: AI | Full Stack | Cloud
 
 ---
 
-## ⚡ Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<!-- 🌊 Animated Footer -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:8a2be2&height=120&section=footer"/>
-</p>
-
-
 ## 🏆 GitHub Achievements
 
 [![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)](https://github.com/users/TheHUNTER2714/achievements/pair-extraordinaire)
